@@ -1,5 +1,0 @@
-- Pause->Home doesn't take you home in-game
-- Hit Button & Go Through Door Sound should be louder
-- Change Level 6 if u feel like it
-- Change Name From itch.io to new name
-- Remove console.logs
